@@ -1,0 +1,15 @@
+# CODESYS temporanei
+*.~u
+*.tmp
+*.bak
+*.precompilecache
+*.opt
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Microsoft Office temporanei
+~$*.pptx
+~$*.docx
+~$*.xlsx
